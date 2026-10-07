@@ -1,0 +1,15 @@
+{
+  "name": "qs-math",
+  "version": "0.1.0",
+  "description": "Quantum Suite Math Library — 166-header C++20 header-only core covering vectors, matrices, quaternions, geometry, physics, rendering, signal processing, colour science and more.",
+  "homepage": "https://github.com/Quantum-Suite-org/Quantum-suite-math",
+  "license": "MIT",
+  "supports": "!uwp",
+  "features": {
+    "tests": {
+      "description": "Build unit tests",
+      "dependencies": []
+    }
+  },
+  "dependencies": []
+}

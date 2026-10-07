@@ -1,0 +1,9 @@
+{
+  "name": "qs-math",
+  "version": "0.1.0",
+  "description": "Quantum Suite Math Library — C++20 header-only core",
+  "homepage": "https://github.com/Quantum-Suite-org/Quantum-suite-math",
+  "license": "MIT",
+  "supports": "!uwp",
+  "dependencies": []
+}
